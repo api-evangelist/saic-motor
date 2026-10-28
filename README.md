@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-MG (SAIC Motor) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://saicmotor.com/
+SAIC Motor, also known as Shanghai Automotive Industry Corporation, is a leading Chinese automotive manufacturer and the parent company of the MG brand. It produces a wide range of vehicles, including passenger cars, commercial vehicles, and new energy vehicles, and operates globally through joint ventures and subsidiaries. The company is listed on the Shanghai Stock Exchange and is a major contributor to China's automotive industry, focusing on innovation, electric mobility, and international expansion.
+
+**Areas:** Company · Automotive · Manufacturing · China · MG
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://saicmotor.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/saic-motor/](https://apis.io/providers/saic-motor/).
